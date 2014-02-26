@@ -1,8 +1,8 @@
 {
   "name": "node-modules",
   "description": "Node module hacks encapsulated",
-  "homepage": "https://github.com/possibilities/meteor-node-modules",
-  "author": "Mike Bannister <notimpossiblemike@gmail.com> (http://po.ssibiliti.es)",
-  "version": "0.0.5",
-  "git": "https://github.com/possibilities/meteor-node-modules.git"
+  "homepage": "https://github.com/zaku-eu/meteor-node-modules",
+  "author": "Tamino Martinius <dev@zaku.eu> (http://zaku.eu)",
+  "version": "0.7.1.1",
+  "git": "https://github.com/zaku-eu/meteor-node-modules.git"
 }

@@ -4,4 +4,7 @@ Package.describe({
 
 Package.on_use(function (api) {
   api.add_files('server.js', 'server');
+  if (typeof api.export !== 'undefined') {
+    api.export('NodeModules', 'server');
+  }
 });
